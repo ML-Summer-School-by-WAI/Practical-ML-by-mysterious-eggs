@@ -187,17 +187,17 @@ dogs_and_cat_filter/
 1. **Prepare your dataset**
    - Place images in `dataset/cat_and_dog_dataset/`
    - Ensure you have corresponding segmentation masks
-![DataSample](8_final_proj\Mystrious_Eggs\data_samples.png)
+![DataSample](8_final_proj/Mystrious_Eggs/data_samples.png)
 2. **Run training**
 ```bash
 python train_cat_dog_segmentation.py
 ```
-![Predicted_results](8_final_proj\Mystrious_Eggs\prediction_results.png)
+![Predicted_results](8_final_proj/Mystrious_Eggs/prediction_results.png)
 3. **Evaluate the model**
 ```bash
 python evaluate.py
 ```
-![training_history.png](8_final_proj\Mystrious_Eggs\training_history.png)
+![training_history.png](8_final_proj/Mystrious_Eggs/training_history.png)
 ## 🛠️ Development
 
 ### Dependencies
