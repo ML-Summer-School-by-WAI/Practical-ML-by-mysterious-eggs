@@ -1,7 +1,7 @@
 ## 👩‍💻 Team Members
 
 - [Wai Yan Myo](https://github.com/waiyanmyodev)
-- [Phyoe Myat Oo](https://github.com/Phyo-Myat-Oo) 
+- [Phyo Myat Oo](https://github.com/Phyo-Myat-Oo) 
 - [Thant Sin Tun](https://github.com/ThantSinTun009)
 - [May Thazin Htun](https://github.com/maythazinhtunn)
 
